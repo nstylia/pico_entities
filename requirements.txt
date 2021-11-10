@@ -5,7 +5,7 @@ sklearn==0.0
 tensorboard==1.12.2
 tensorboardX==2.0
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.15.4
+tensorflow-gpu==2.5.2
 tensorflow-hub==0.4.0
 cloudpickle==1.4.1
 jsonpickle==1.4.1
